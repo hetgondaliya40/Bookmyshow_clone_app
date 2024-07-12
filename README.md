@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **hetgondaliya104@gmail.com**
 
+- <h3 align="left">Definition:</h3>
+ <h4>BookMyShow App allows users to browse a list of movies, view movie details including cast, ratings, and synopsis, check showtimes at nearby theaters, and securely book tickets. The app also includes user authentication and a booking history feature.</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/het-gondaliya-a26b20310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het-gondaliya-a26b20310" height="30" width="40" /></a>
