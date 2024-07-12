@@ -1,16 +1,18 @@
-# exam_app_ui
+<h1 align="center">Hi 👋, I'm Gondaliya het</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
-A new Flutter project.
+- 🔭 I’m currently working on **Bookmyshow**
 
-## Getting Started
+- 🌱 I’m currently learning **Master in Flutter**
 
-This project is a starting point for a Flutter application.
+- 👨‍💻 All of my projects are available at [https://github.com/hetgondaliya40](https://github.com/hetgondaliya40)
 
-A few resources to get you started if this is your first Flutter project:
+- 📫 How to reach me **hetgondaliya104@gmail.com**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/het-gondaliya-a26b20310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het-gondaliya-a26b20310" height="30" width="40" /></a>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
